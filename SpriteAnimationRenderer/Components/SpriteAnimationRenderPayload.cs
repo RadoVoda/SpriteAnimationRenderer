@@ -6,7 +6,7 @@ using UnityEngine;
 using UnityEngine.Rendering;
 using Unity.Collections;
 
-namespace SpriteAnimation
+namespace DOTSSpriteAnimation
 {
     public class SpriteAnimationRenderPayload : IDisposable
     {

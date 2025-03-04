@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEditor;
 using Unity.Collections.LowLevel.Unsafe;
 
-namespace SpriteAnimation
+namespace DOTSSpriteAnimation
 {
     public interface IHashGuid
     {

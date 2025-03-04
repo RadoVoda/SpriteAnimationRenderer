@@ -4,7 +4,7 @@ using Unity.Mathematics;
 using Unity.Jobs;
 using BurstEnums;
 
-namespace SpriteAnimation
+namespace DOTSSpriteAnimation
 {
     public partial class SpriteAnimationSystem : SystemBase
     {

@@ -13,7 +13,7 @@ using System.Runtime.CompilerServices;
 using System;
 using BurstEnums;
 
-namespace SpriteAnimation
+namespace DOTSSpriteAnimation
 {
     public partial class SpriteAnimationRenderer : SystemBase
     {

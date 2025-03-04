@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEditor;
 
-namespace SpriteAnimation
+namespace DOTSSpriteAnimation
 {
     public class JustReadAttribute : PropertyAttribute
     {

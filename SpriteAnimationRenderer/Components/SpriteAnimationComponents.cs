@@ -4,7 +4,7 @@ using Unity.Entities;
 using Unity.Mathematics;
 using BurstEnums;
 
-namespace SpriteAnimation
+namespace DOTSSpriteAnimation
 {
     public struct SpriteTransform : IComponentData
     {

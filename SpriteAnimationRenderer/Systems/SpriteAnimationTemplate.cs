@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEditor;
 using Unity.Mathematics;
 
-namespace SpriteAnimation
+namespace DOTSSpriteAnimation
 {
     public enum ESpritePlayMode
     {
